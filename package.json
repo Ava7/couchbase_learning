@@ -13,6 +13,7 @@
   "author": "Ava",
   "license": "MIT",
   "dependencies": {
-    "couchbase": "~2.0.10"
+    "couchbase": "~2.0.10",
+    "elasticsearch": "~5.0.0"
   }
 }
